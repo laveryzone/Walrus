@@ -1,0 +1,8 @@
+.column {
+  width: 300px;
+  float: left;
+}
+.independent {
+  width: auto;
+  float: right;
+}
